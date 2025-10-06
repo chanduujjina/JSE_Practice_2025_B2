@@ -1,4 +1,4 @@
-package com.demo.coolcoder;
+package com.demo.coolcoder.inheritance;
 
 import java.util.Objects;
 

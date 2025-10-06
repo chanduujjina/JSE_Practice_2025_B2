@@ -1,4 +1,4 @@
-package com.demo.coolcoder;
+package com.demo.coolcoder.inheritance;
 
 public class ContractEmployee extends BaseEmployee {
 	

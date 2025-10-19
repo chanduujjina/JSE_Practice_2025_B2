@@ -18,5 +18,13 @@
 - create instance variable with private access specifier/modifier
 - to load the data to Object through instance varible ,create setter/constrctor
 - To get the data from  object create a getter method
+
+## What is this key word and adanatge of it
+- To change state of an current object(Write,update,delete)
+- To get the data from the current object
+## What are the ways initalize/load data to the Object.
+ - Constrcor
+ - Setter
+   
   
   

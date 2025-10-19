@@ -5,4 +5,7 @@
 ## Object
 - Anything can exists physically we can call it as Object.
 - chair,Particular employee,Fan
+- Object contains Properties and Behaviour 
+
+
   

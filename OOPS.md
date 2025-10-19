@@ -7,5 +7,10 @@
 - chair,Particular employee,Fan
 - Object contains Properties and Behaviour 
 
+## Encapsulation
 
+- Wraping data(variable and methods) inside an object with out leaking outside is called Encapsulation
+- To achieve the security encapusulation is required
+- Keeping/Holding state and behaviour is a single unit.
+- It can prevent other object memebers of class for the direct access.
   

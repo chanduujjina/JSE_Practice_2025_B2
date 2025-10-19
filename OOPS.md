@@ -13,4 +13,10 @@
 - To achieve the security encapusulation is required
 - Keeping/Holding state and behaviour is a single unit.
 - It can prevent other object memebers of class for the direct access.
+
+## How to achieve encapsulation 
+- create instance variable with private access specifier/modifier
+- to load the data to Object through instance varible ,create setter/constrctor
+- To get the data from  object create a getter method
+  
   
